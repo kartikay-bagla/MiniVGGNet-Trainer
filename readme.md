@@ -21,3 +21,15 @@ Usage:
 python train_model.py -d cross_extraction -m detector.model
 python test_nn.py -i Cross.webm -m detector.model -o CrossIdentify.webm
 ```
+
+Python packages used:
+
+* Numpy
+* Keras
+* Tensorflow
+* Scikit-learn
+* imutils
+* opencV
+* argparse
+* os
+* pickle
